@@ -30,25 +30,8 @@ You can install these dependencies using `pip`:
 
 ```bash
 pip install pandas numpy scikit-learn nltk matplotlib
+```
 
-Copy code
-pip install pandas numpy scikit-learn nltk matplotlib
-Getting Started
-Clone this repository:
-bash
-Copy code
-git clone https://github.com/your-username/movie-recommendation-system.git
-Navigate to the project directory:
-bash
-Copy code
-cd movie-recommendation-system
-Install the required libraries:
-bash
-Copy code
-pip install -r requirements.txt
-Open the Jupyter Notebook:
-bash
-Copy code
-jupyter notebook "Movie recommendation system (content based).ipynb"
-Contributing
+## Contributing
+
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, feel free to open an issue or submit a pull request.
